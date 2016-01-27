@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Change1");
+    
+    NSLog(@"Third Log");
+    NSLog(@"FourthLog");
+    
 }
 
 - (void)didReceiveMemoryWarning {
